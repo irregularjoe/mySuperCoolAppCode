@@ -10,7 +10,7 @@ import UIKit
 
 class ViewController: UIViewController {
 
-    @IBOutlet weak var coolLogo: UIImageView!
+    @IBOutlet weak var coolLogo: UIImageView!	
     @IBOutlet weak var coolBg: UIImageView!
     @IBOutlet weak var uncoolButton: UIButton!
     override func viewDidLoad() {
